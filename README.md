@@ -8,8 +8,7 @@ tiny ~ very small
 ex. a tiny hummingbird
 ```
 
-Note: To run this script, you'll need an app key from
-[https://developer.oxforddictionaries.com/documentation/getting_started](Oxford English Dictionaries).
+Note: To run this script, you'll need an app key from [Oxford English Dictionaries](https://developer.oxforddictionaries.com/documentation/getting_started)
 
 Arguments
 ===
